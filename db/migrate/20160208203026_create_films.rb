@@ -9,4 +9,3 @@ class CreateFilms < ActiveRecord::Migration
     end
   end
 end
-º
